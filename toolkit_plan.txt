@@ -1,0 +1,27 @@
+Personal Mini-Toolkit Plan
+
+1. Tools Selected:
+   - Tool 1: Dynamic To-Do List — Allows users to view, add, and remove tasks from an active task list.
+   - Tool 2: Even Number Counter — Counts and displays all the even numbers within a user-defined numeric range.
+   - Tool 3: Simple Calculator — Performs basic arithmetic operations (addition, subtraction, multiplication, and division) based on user input.
+
+2. Tool Descriptions:
+   - Dynamic To-Do List: Manages a changing list of daily tasks so you can easily add or clear items on the fly.
+   - Even Number Counter: Loops through a sequence of numbers from 1 up to a chosen maximum to isolate and count the even integers.
+   - Simple Calculator: Takes two numbers and an operator to calculate and display the mathematical result.
+
+3. Exact Menu Text:
+   =========================================
+          WELCOME TO YOUR PERSONAL MINI-TOOLKIT
+   =========================================
+   1. Dynamic To-Do List
+   2. Even Number Counter
+   3. Simple Calculator
+   4. Quit
+   =========================================
+   Please select an option (1-4): 
+
+4. Concepts Used per Tool:
+   - To-Do List: Loops, lists (mutable state), conditionals, and f-strings.
+   - Even Number Counter: Loops, conditionals (modulo operator), and f-strings.
+   - Simple Calculator: Conditionals (if/elif/else), user input handling, and f-strings.
